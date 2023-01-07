@@ -1,7 +1,7 @@
 ### Hi there. I'm Naufal Kusumajaya, I like to learn 👋
 
 
-- 🔭 I’m currently working as College Student at ITS Surabaya
+- 🔭 I’m currently study at ITS Surabaya
 - 🌱 I’m currently learning about Data Science, Artificial Intelligence, and Web Development
 - 📫 How to reach me: naufalkusumajaya@gmail.com
 <!--
