@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently study at ITS Surabaya
-- 🌱 I’m currently learning about Data Science, Artificial Intelligence, and Web Development
+- 🌱 I’m currently learning about Data Science and Artificial Intelligence
 - 📫 How to reach me: naufalkusumajaya@gmail.com
 <!--
 - 😄 Pronouns: ...
